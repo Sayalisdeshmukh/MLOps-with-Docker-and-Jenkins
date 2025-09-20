@@ -1,0 +1,6 @@
+{
+  "validation_acc": 0.8465400120762515,
+  "validation_std": 0.002093951173141327,
+  "cv_splits": 3,
+  "model_type": "LogisticRegression_with_StandardScaler"
+}

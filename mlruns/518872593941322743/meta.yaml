@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743
+creation_time: 1758380907456
+experiment_id: '518872593941322743'
+last_update_time: 1758380907456
+lifecycle_stage: active
+name: adult-income-training

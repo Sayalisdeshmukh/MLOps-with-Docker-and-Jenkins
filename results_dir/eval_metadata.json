@@ -1,0 +1,22 @@
+{
+  "test_accuracy": 0.8455077909161234,
+  "test_f1_score": 0.6644263082093135,
+  "test_precision": 0.723092998955068,
+  "test_recall": 0.6145648312611013,
+  "test_roc_auc": 0.9022334715111751,
+  "test_data_size": 9049,
+  "confusion_matrix": [
+    [
+      6267,
+      530
+    ],
+    [
+      868,
+      1384
+    ]
+  ],
+  "class_names": [
+    "\u226450K",
+    ">50K"
+  ]
+}

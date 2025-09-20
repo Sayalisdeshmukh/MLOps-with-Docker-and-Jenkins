@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/eecdcdc3186f4a0597258fb0886e0ed8/artifacts
+end_time: 1758387318433
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: eecdcdc3186f4a0597258fb0886e0ed8
+run_name: gifted-penguin-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758386991001
+status: 4
+tags: []
+user_id: sayalideshmukh

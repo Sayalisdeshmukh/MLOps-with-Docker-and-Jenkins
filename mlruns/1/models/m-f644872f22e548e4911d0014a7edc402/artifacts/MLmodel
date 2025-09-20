@@ -1,0 +1,22 @@
+artifact_path: /Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/1/models/m-f644872f22e548e4911d0014a7edc402/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-f644872f22e548e4911d0014a7edc402
+model_size_bytes: 6944
+model_uuid: m-f644872f22e548e4911d0014a7edc402
+prompts: null
+run_id: fe619d8292734063b6108a70eb78f359
+utc_time_created: '2025-09-20 20:13:25.876590'

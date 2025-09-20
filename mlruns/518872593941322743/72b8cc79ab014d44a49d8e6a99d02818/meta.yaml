@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/72b8cc79ab014d44a49d8e6a99d02818/artifacts
+end_time: 1758385123334
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: 72b8cc79ab014d44a49d8e6a99d02818
+run_name: luminous-conch-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758385011442
+status: 4
+tags: []
+user_id: sayalideshmukh

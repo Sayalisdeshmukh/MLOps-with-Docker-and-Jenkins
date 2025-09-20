@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/42fd773f96924abebdad8a8ab58fc784/artifacts
+end_time: 1758381501291
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: 42fd773f96924abebdad8a8ab58fc784
+run_name: classy-trout-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758380907710
+status: 4
+tags: []
+user_id: sayalideshmukh

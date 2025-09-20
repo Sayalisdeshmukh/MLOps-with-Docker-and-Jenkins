@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/d82e716eb4b744879c5109f8a494a0e4/artifacts
+end_time: 1758386808693
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: d82e716eb4b744879c5109f8a494a0e4
+run_name: auspicious-mole-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758386727112
+status: 3
+tags: []
+user_id: sayalideshmukh

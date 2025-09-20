@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/061a2e48476848aaa6798a5a506a2c79/artifacts
+end_time: 1758384966679
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: 061a2e48476848aaa6798a5a506a2c79
+run_name: intrigued-whale-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758382290079
+status: 4
+tags: []
+user_id: sayalideshmukh

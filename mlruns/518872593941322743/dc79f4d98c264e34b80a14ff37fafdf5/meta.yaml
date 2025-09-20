@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/dc79f4d98c264e34b80a14ff37fafdf5/artifacts
+end_time: 1758381846340
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: dc79f4d98c264e34b80a14ff37fafdf5
+run_name: useful-bear-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758381520601
+status: 4
+tags: []
+user_id: sayalideshmukh

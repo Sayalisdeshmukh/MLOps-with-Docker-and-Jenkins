@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/23df43e12c6940e6a93c0d65b8ac456a/artifacts
+end_time: 1758386056629
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: 23df43e12c6940e6a93c0d65b8ac456a
+run_name: brawny-lamb-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758385839735
+status: 4
+tags: []
+user_id: sayalideshmukh

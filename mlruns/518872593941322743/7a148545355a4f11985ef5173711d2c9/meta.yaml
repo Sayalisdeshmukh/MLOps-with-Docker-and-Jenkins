@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sayalideshmukh/Downloads/cloudbeeproject/MLOps-with-Docker-and-Jenkins/mlruns/518872593941322743/7a148545355a4f11985ef5173711d2c9/artifacts
+end_time: 1758386062212
+entry_point_name: ''
+experiment_id: '518872593941322743'
+lifecycle_stage: active
+run_id: 7a148545355a4f11985ef5173711d2c9
+run_name: suave-turtle-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758386061772
+status: 3
+tags: []
+user_id: sayalideshmukh
